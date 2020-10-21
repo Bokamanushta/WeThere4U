@@ -4,4 +4,11 @@ We There 4 U is a prototype of the existing IoT based business models. Recently 
 
 ## GUI
 
+* Home Page
+
+![Screenshot (39)](https://user-images.githubusercontent.com/40347973/96717339-e0c80280-13d8-11eb-8c62-a7bf5dc3adc2.png)
+
+
 ## Video Presentation
+
+If you want to view th full demo, please [Click](https://youtu.be/ZQee9jqujyQ) here. 
